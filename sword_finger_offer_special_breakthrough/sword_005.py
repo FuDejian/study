@@ -28,10 +28,16 @@
 # 解释: 不存在这样的两个单词。
 
 from typing import List
-
 from collections import namedtuple
 
 class Solution:
+    # 解法
+    # 将word转换为数字，数字的二进制位分别对应字母‘z~a’,有该字母则该位置1，反之置0
+    # 两个word有公共数字则求“&”后结果非零
+    # word1.bin & word2.bin == 0 时更新结果
+    # 执行用时：404 ms, 在所有 Python3 提交中击败了62.03%的用户
+    # 内存消耗：15.6 MB, 在所有 Python3 提交中击败了18.16%的用户
+
     def maxProduct(self, words: List[str]) -> int:
         wordinfo = namedtuple("wordinfo","word length bin")
         words_info = []
