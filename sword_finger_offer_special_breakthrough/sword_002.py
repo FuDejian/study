@@ -4,7 +4,7 @@
 @Time    :   2022/05/03 11:39:07
 @Author  :   Dejian Fu
 @Version :   1.0
-@Contact :   fudejian1008@163.com
+@Contact :   fu.dejian@foxmail.com
 '''
 
 # 剑指 Offer II 002. 二进制加法

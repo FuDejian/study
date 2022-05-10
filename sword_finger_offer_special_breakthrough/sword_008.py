@@ -4,7 +4,7 @@
 @Time    :   2022/05/04 14:46:10
 @Author  :   Dejian Fu
 @Version :   1.0
-@Contact :   fudejian1008@163.com
+@Contact :   fu.dejian@foxmail.com
 '''
 
 # 剑指 Offer II 008. 和大于等于 target 的最短子数组

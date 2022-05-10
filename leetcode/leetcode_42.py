@@ -4,7 +4,7 @@
 @Time    :   2022/04/25 22:14:32
 @Author  :   Dejian Fu
 @Version :   1.0
-@Contact :   fudejian1008@163.com
+@Contact :   fu.dejian@foxmail.com
 '''
 
 # 给定 n 个非负整数表示每个宽度为 1 的柱子的高度图，计算按此排列的柱子，下雨之后能接多少雨水。

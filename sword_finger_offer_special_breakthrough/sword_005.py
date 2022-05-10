@@ -4,7 +4,7 @@
 @Time    :   2022/05/04 11:09:38
 @Author  :   Dejian Fu
 @Version :   1.0
-@Contact :   fudejian1008@163.com
+@Contact :   fu.dejian@foxmail.com
 '''
 
 # 剑指 Offer II 005. 单词长度的最大乘积

@@ -4,7 +4,7 @@
 @Time    :   2022/04/26 22:19:00
 @Author  :   Dejian Fu
 @Version :   1.0
-@Contact :   fudejian1008@163.com
+@Contact :   fu.dejian@foxmail.com
 '''
 
 # 剑指 Offer 03. 数组中重复的数字

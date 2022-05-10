@@ -4,7 +4,7 @@
 @Time    :   2022/05/03 16:22:40
 @Author  :   Dejian Fu
 @Version :   1.0
-@Contact :   fudejian1008@163.com
+@Contact :   fu.dejian@foxmail.com
 '''
 
 # 剑指 Offer II 003. 前 n 个数字二进制中 1 的个数

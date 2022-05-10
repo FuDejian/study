@@ -4,7 +4,7 @@
 @Time    :   2022/05/04 11:59:22
 @Author  :   Dejian Fu
 @Version :   1.0
-@Contact :   fudejian1008@163.com
+@Contact :   fu.dejian@foxmail.com
 '''
 
 # 剑指 Offer II 006. 排序数组中两个数字之和

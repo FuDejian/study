@@ -4,7 +4,7 @@
 @Time    :   2022/05/04 22:44:38
 @Author  :   Dejian Fu
 @Version :   1.0
-@Contact :   fudejian1008@163.com
+@Contact :   fu.dejian@foxmail.com
 '''
 
 # 剑指 Offer II 011. 0 和 1 个数相同的子数组
